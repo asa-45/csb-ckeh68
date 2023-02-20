@@ -5,3 +5,7 @@ self.addEventListener("install", (ev) => {
 self.addEventListener("activate", (ev) => {
   console.log("sw activate");
 });
+
+self.addEventListener("fetch", (ev) => {
+  console.log("sw fetch");
+});
