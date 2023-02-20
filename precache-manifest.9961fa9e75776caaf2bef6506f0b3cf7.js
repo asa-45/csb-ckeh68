@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f73d3f9a43b361a743d3e7c1026c90c2",
+    "revision": "fc13b0dd66d4de24ad8daeddf2bfcf3c",
     "url": "https://asa-45.github.io/csb-ckeh68/index.html"
   },
   {
-    "revision": "6660a549b06514f7e616",
+    "revision": "5b5f7127ee3001133262",
     "url": "https://asa-45.github.io/csb-ckeh68/static/css/main.96f7de54.chunk.css"
   },
   {
-    "revision": "9ca10b3eb40e8ee623cd",
-    "url": "https://asa-45.github.io/csb-ckeh68/static/js/2.e8f0d572.chunk.js"
+    "revision": "1381f1d2a3dd52f5882a",
+    "url": "https://asa-45.github.io/csb-ckeh68/static/js/2.b52dbeee.chunk.js"
   },
   {
-    "revision": "6660a549b06514f7e616",
-    "url": "https://asa-45.github.io/csb-ckeh68/static/js/main.84562406.chunk.js"
+    "revision": "5b5f7127ee3001133262",
+    "url": "https://asa-45.github.io/csb-ckeh68/static/js/main.e441dd53.chunk.js"
   },
   {
     "revision": "42b02062f3a577a94518",
